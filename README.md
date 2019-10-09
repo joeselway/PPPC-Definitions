@@ -2,7 +2,7 @@
 
 #### Below is a table mapping Apple's developer documentation for per-app PPPC controls to the user GUI in macOS 10.15 Catalina
 
-[Apple Dev Docs source: https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services](https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services)
+Apple Dev Docs source: [https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services](https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services)
 
 S&P Prefs source: macOS 10.15.0 System Preferences > Security & Privacy
 
