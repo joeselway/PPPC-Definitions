@@ -1,6 +1,6 @@
 # PPPC-Definitions
 
-#### Below is a table mapping Apple's developer documentation for per-app PPPC controls to the user GUI in macOS 10.15 Catalina
+#### [This](https://github.com/joeselway/PPPC-Definitions/blob/master/PPPC-Definitions.md) is a table mapping Apple's developer documentation for per-app PPPC controls to the user GUI in macOS 10.15 Catalina
 
 [Apple Dev Docs source: https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services](https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services)
 
