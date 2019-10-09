@@ -4,7 +4,7 @@
 
 Apple Dev Docs source: [https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services](https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services)
 
-S&P Prefs source: macOS 10.15.0 System Preferences > Security & Privacy
+S&P Prefs source: macOS 10.15 (19A583) System Preferences > Security & Privacy
 
 Profile options source: [Jamf PPPC-Utility v1.1.2](https://github.com/jamf/PPPC-Utility)
 
