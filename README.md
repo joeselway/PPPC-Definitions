@@ -37,4 +37,4 @@ The "*Disabled*" description refers to when the GUI only presents a message rega
 | SystemPolicyNetworkVolumes |   Files and Folders   | Allows the application to access files on network volumes. | Allow the apps below to access files and folders. | ???? | Allow/Deny |
 | SystemPolicyRemovableVolumes |   Files and Folders   | Allows the application to access files on removable volumes. | Allow the apps below to access files and folders. | ???? | Allow/Deny |
 | SystemPolicySysAdminFiles |   Files and Folders??   | Allows the application access to some files used in system administration. | Allow the apps below to access files and folders. | ???? | Allow/Deny |
-| ???? | Developer Tools | *Always enabled*
+| ???? | Developer Tools | *Always enabled* |

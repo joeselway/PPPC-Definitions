@@ -1,0 +1,6 @@
+#!/bin/bash
+
+WATCH_PATH="$3/var/run/au.edu.adelaide.uofanotification.on_demand.launchd"
+
+touch "$WATCH_PATH"
+chmod a+w "$WATCH_PATH"
