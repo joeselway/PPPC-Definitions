@@ -2,9 +2,9 @@
 
 #### Below is a table mapping Apple's developer documentation for per-app PPPC controls to the user GUI in macOS 10.15 Catalina
 
-[Apple Dev Docs source: https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services](https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services)
+Apple Dev Docs source: [https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services](https://developer.apple.com/documentation/devicemanagement/privacypreferencespolicycontrol/services)
 
-S&P Prefs source: macOS 10.15.0 System Preferences > Security & Privacy
+S&P Prefs source: macOS 10.15 (19A583) System Preferences > Security & Privacy
 
 Profile options source: [Jamf PPPC-Utility v1.1.2](https://github.com/jamf/PPPC-Utility)
 
@@ -30,7 +30,7 @@ The "*Disabled*" description refers to when the GUI only presents a message rega
 | Reminders | Reminders | Specifies the policies for reminders information managed by the Reminders app. | Allow the apps below to access your reminders. | S&P description disabled
 | ScreenCapture | Screen Recording | Allows the application to capture (read) the contents of the system display. Access to the contents cannot be given in a profile; it can only be denied. | Allow the apps below to record the contents of your screen, even while using other apps. | S&P description disabled | **Deny only** |
 | SpeechRecognition | Speech Recognition | Allows the application to use the system Speech Recognition facility and to send speech data to Apple. | S&P description enabled | Apps that have requested access to speech recognition will appear here. Speech recognition sends recorded voice to Apple to process your requests | **Deny only** |
-| SystemPolicyAllFiles | Full Disk Access | Allows the application access to all protected files, including system administration files. | Allows the apps below to access data like Mail, Messages, Safari, Home, Time Machine backups and certain administrative settings for all users on this Mac. | ???? | **Deny only** |
+| SystemPolicyAllFiles | Full Disk Access | Allows the application access to all protected files, including system administration files. | Allows the apps below to access data like Mail, Messages, Safari, Home, Time Machine backups and certain administrative settings for all users on this Mac. | ???? | Allow/Deny |
 | SystemPolicyDesktopFolder | Files and Folders   | Allows the application to access files in the user's Desktop folder. | Allow the apps below to access files and folders. | ???? | Allow/Deny |
 | SystemPolicyDocumentsFolder |   Files and Folders   | Allows the application to access files in the user's Documents folder. | Allow the apps below to access files and folders. | ???? | Allow/Deny |
 | SystemPolicyDownloadsFolder |   Files and Folders   | Allows the application to access files in the user's Downloads folder. | Allow the apps below to access files and folders. | ???? | Allow/Deny |
